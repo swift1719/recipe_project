@@ -2,5 +2,5 @@
 1000s of recipes via api
 
 use of html,css ,advanced js with node modules...(webpack,babel)dependencies and dev tools.
-Its just BEGINNING of web development...reread
+It is a begginers project. Needs lots of modifications.
 ~ON N ON...
