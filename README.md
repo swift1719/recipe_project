@@ -1,6 +1,8 @@
-# recipe_project
-1000s of recipes via api
+Recipe App
 
-use of html,css ,advanced js with node modules...(webpack,babel)dependencies and dev tools.
-It is a begginers project. Needs lots of modifications.
+Search for thousands of recipes via api with functionality of shopping list and favourites.
+
+use of html,css ,advanced javascript with node modules...(webpack,babel)dependencies and dev tools.
+usage of pagination for search results and storing favourite recipes in local storage in the web browser.
+
 ~ON N ON...
